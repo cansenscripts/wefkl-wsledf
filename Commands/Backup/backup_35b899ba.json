@@ -1,0 +1,148 @@
+{
+  "guildName": "cansenstore",
+  "guildId": "1314424593322213396",
+  "roles": [
+    {
+      "id": "1314424593322213396",
+      "name": "@everyone",
+      "color": 0,
+      "permissions": "2248473465835073",
+      "position": 0,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1314437293922324550",
+      "name": "staff",
+      "color": 3066993,
+      "permissions": "0",
+      "position": 3,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1314437319922679838",
+      "name": "user",
+      "color": 15844367,
+      "permissions": "0",
+      "position": 2,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1314720789315981335",
+      "name": "bot",
+      "color": 0,
+      "permissions": "8",
+      "position": 4,
+      "hoist": false,
+      "mentionable": false
+    },
+    {
+      "id": "1315151676180664395",
+      "name": "memphis",
+      "color": 0,
+      "permissions": "8",
+      "position": 1,
+      "hoist": false,
+      "mentionable": false
+    }
+  ],
+  "channels": [
+    {
+      "id": "1314424593322213397",
+      "name": "Canales de texto",
+      "type": 4,
+      "parentId": null,
+      "position": 0
+    },
+    {
+      "id": "1314424593322213398",
+      "name": "Canales de voz",
+      "type": 4,
+      "parentId": null,
+      "position": 1
+    },
+    {
+      "id": "1314424593322213399",
+      "name": "general",
+      "type": 0,
+      "parentId": "1314424593322213397",
+      "position": 0,
+      "topic": null,
+      "nsfw": false
+    },
+    {
+      "id": "1314424593322213400",
+      "name": "General",
+      "type": 2,
+      "parentId": "1314424593322213398",
+      "position": 0,
+      "nsfw": false
+    },
+    {
+      "id": "1314440348163903518",
+      "name": "DUDAS",
+      "type": 4,
+      "parentId": null,
+      "position": 2
+    },
+    {
+      "id": "1314440360331841618",
+      "name": "COMPRAS",
+      "type": 4,
+      "parentId": null,
+      "position": 3
+    },
+    {
+      "id": "1314440417827094558",
+      "name": "PARTNER",
+      "type": 4,
+      "parentId": null,
+      "position": 4
+    },
+    {
+      "id": "1314440428539351120",
+      "name": "SOPORTE",
+      "type": 4,
+      "parentId": null,
+      "position": 5
+    },
+    {
+      "id": "1314444453351526410",
+      "name": "sugerencia",
+      "type": 0,
+      "parentId": "1314424593322213397",
+      "position": 1,
+      "topic": null,
+      "nsfw": false
+    },
+    {
+      "id": "1314645857815101444",
+      "name": "ticket-elcnnn___",
+      "type": 0,
+      "parentId": "1314440348163903518",
+      "position": 0,
+      "topic": "Ticket de 806747477793177661",
+      "nsfw": false
+    },
+    {
+      "id": "1314645879394795530",
+      "name": "bienvenido",
+      "type": 0,
+      "parentId": "1314424593322213397",
+      "position": 2,
+      "topic": null,
+      "nsfw": false
+    },
+    {
+      "id": "1314728545813266534",
+      "name": "a",
+      "type": 0,
+      "parentId": "1314424593322213397",
+      "position": 3,
+      "topic": null,
+      "nsfw": false
+    }
+  ]
+}
